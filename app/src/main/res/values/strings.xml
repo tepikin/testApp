@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message_gl_not_supported">OpenGL ES 2.0 is not supported on this phone.</string>
+    <string name="button_start_stop">Start/Stop</string>
+</resources>
